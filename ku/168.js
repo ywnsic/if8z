@@ -1,36 +1,36 @@
-function main(item) {
-    let url = item.url;
-    let id = ku9.getQuery(url, "id");
+附加文档需要对此存储库的写权限。+统一资源定位系统+项目 = ku9.统一资源定位系统 让(身份证, "id");
+无包裹
+软包通过 = `
 
-    // 注入全屏播放的JS代码
-    const jscode = `
-(function(){
-    const startTime = Date.now();
+突耳
+拖拽，
+选择或粘贴它们。
+附加工资
     
-    // 隐藏网页内容
-    // 将整个视口背景设为黑色
-document.documentElement.style.backgroundColor = 'black';
-document.documentElement.style.height = '10%';
-document.documentElement.style.margin = '0';
-document.documentElement.style.padding = '0';
-
-// 隐藏body内容但保留背景（需确保body不覆盖html背景）
+上传你的文件……
+我们不支持这种文件类型。
+再试一次
+有
 document.body.style.visibility = 'hidden';
 document.body.style.margin = '0';
-document.body.style.padding = '0';
-document.body.style.minHeight = '10vh'; // 确保高度覆盖视口
 
-// 保持原有获取Shadow DOM视频的逻辑
-function getVideoParentShadowRoots() {
-  const allElements = document.querySelectorAll('*');
-  for (const element of allElements) {
-    const shadowRoot = element.shadowRoot;
-    if (shadowRoot) {
-      const video = shadowRoot.querySelector('video');
-      if (video) return video;
+document.body.style.padding = '0';
+文献。本体。样式
+//保持原有获取的影子
+功能
+突耳
+
+按键移动焦点。或者，使用
+欧洲心脏病学会
+然后
+突耳
+移动到页面上的下一个交互元素。
+欧洲心脏病学会
+然后
+突耳
     }
   }
-  return null;
+移动到页面上的下一个交互元素。
 }
 
 
