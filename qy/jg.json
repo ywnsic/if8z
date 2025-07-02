@@ -54,6 +54,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
+         {
+            "key": "py_jianpian",
+            "name": "🍀荐片(py)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://github.com/ywnsic/if8z/raw/main/py/jianpian.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
             {
     "key":"荐片弹幕版",
     "name":"⚔️荐片┃弹幕",
