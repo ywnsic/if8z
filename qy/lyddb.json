@@ -29,11 +29,12 @@
             "key": "瓜子",
             "name": "🎦瓜子｜影视",
             "type": 3,
-            "jar": "https://gh-proxy.com/https://github.com/ywnsic/if8z/raw/main/jar/spider.jar",
-            "api": "csp_Gz360",
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/mvtC3tIq.png",
+            "api": "csp_GuaziGuard",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+          "timeout":10
         },
         {
             "key": "低端影视",
@@ -149,17 +150,6 @@
             "timeout": 10
         },
         {
-            "key": "茶狐杯",
-            "name": "🧫茶狐杯🧫",
-            "type": 3,
-            "jar": "https://gh-proxy.com/https://github.com/ywnsic/if8z/raw/main/jar/spider.jar",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://github.com/ywnsic/if8z/raw/main/json/茶狐杯.json"
-        },
-        {
             "key": "快看",
             "name": "🎦快看｜影视",
             "type": 3,
@@ -259,17 +249,6 @@
 {"key":"360资源","name":"360资源 | 影视[直连]","type":1,"api":"https://360zy.com/api.php/provide/vod/?ac=list","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日韩动漫","西部片","爽文短剧","现代都市","年代穿越","古装仙侠","女频恋爱","成长逆袭"],"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"}},
 {"key":"极速资源","name":"极速 | 影视[直连]","type":1,"api":"https://jszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"categories":["欧美剧","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫"," 欧美动漫","综艺","台湾剧","体育赛事","大陆综艺","日韩综艺","港台综艺","欧美综艺","灾难片","悬疑片","犯罪片","奇幻片","短剧"],"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"}},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"],"header":{"User-Agent":"Mozilla/5.0"}},
-    {
-    "key":"yhdm",
-    "name":"🌸樱花┃动漫",
-    "type":3,
-    "jar": "https://gh-proxy.com/https://github.com/ywnsic/if8z/raw/main/jar/ok.png",
-    "api":"csp_YHDMGuard",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "timeout":15
-    },
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
