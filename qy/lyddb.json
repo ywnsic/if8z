@@ -2,6 +2,15 @@
   "spider": "https://gh-proxy.com/https://github.com/ywnsic/if8z/raw/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
+        {
+      "key": "豆豆",
+      "name": "⚠️请勿相信视频中的广告⚠️",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
       {
       "key": "Bili2",
       "name": "宝宝趣学||🏆耀德影视🏆",
