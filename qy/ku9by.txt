@@ -1,4 +1,0 @@
-酷9备用接口,#genre#
-暂时无资源,http://em.21dtv.com/songs/60108364.mkv
-主接口失效时启用,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ca8d8rbc77u376afq590&ratio=720p&line=0
-
