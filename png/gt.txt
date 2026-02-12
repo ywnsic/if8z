@@ -1,0 +1,493 @@
+🐎SMT香港,#genre#,DE=3#HEADERS={"User-Agent":"ku9qun"}
+翡翠台,http://dreamdeu.sylu.net:8080/smt.php?id=jade_twn
+&socks5=120.196.69.35:23552
+翡翠台 backup,http://dreamdeu.sylu.net:8080/smt.php?id=Jade_xue
+iNews 新闻台,http://dreamdeu.sylu.net:8080/smt.php?id=inews_twn
+J 2,http://dreamdeu.sylu.net:8080/smt.php?id=j2_twn
+珍珠台,http://dreamdeu.sylu.net:8080/smt.php?id=pearl_twn
+凤凰香港,http://dreamdeu.sylu.net:8080/smt.php?id=hkphoenix_twn
+HOY资讯台,http://dreamdeu.sylu.net:8080/smt.php?id=hoycaijing_twn
+RHK 31,http://dreamdeu.sylu.net:8080/smt.php?id=rhk31_twn
+VIUTV1,http://dreamdeu.sylu.net:8080/smt.php?id=viu1_twn
+RHK 32,http://dreamdeu.sylu.net:8080/smt.php?id=rhk32_twn
+凤凰卫视,http://dreamdeu.sylu.net:8080/smt.php?id=phoenixtv_hd
+凤凰资讯,http://dreamdeu.sylu.net:8080/smt.php?id=phoenixinfo_hd
+Viu6,http://dreamdeu.sylu.net:8080/smt.php?id=viusix_twn
+
+🐎SMT台湾,#genre#,DE=3#HEADERS={"User-Agent":"ku9qun"}
+美亚电影,http://dreamdeu.sylu.net:8080/smt.php?id=meiyamovie_twn
+纬来电影台,http://dreamdeu.sylu.net:8080/smt.php?id=videolandmovie
+龙详时代,http://dreamdeu.sylu.net:8080/smt.php?id=lungxiangtime_twn
+龙华戏剧 Lunghua Drama,http://dreamdeu.sylu.net:8080/smt.php?id=lunghuaxiju_twn
+龙华经典台,http://dreamdeu.sylu.net:8080/smt.php?id=lunghuajingdian_twn
+龙华偶像,http://dreamdeu.sylu.net:8080/smt.php?id=lunghuaidol_twn
+HBO_HD,http://dreamdeu.sylu.net:8080/smt.php?id=hbohd_twn
+HBO_HITS,http://dreamdeu.sylu.net:8080/smt.php?id=hbohit_twn
+Hollywood Movies,http://dreamdeu.sylu.net:8080/smt.php?id=hollywoodmovies_twn
+TVBS News 新闻台,http://dreamdeu.sylu.net:8080/smt.php?id=tvbs_n
+TVBS 欢乐台 （备份）,http://dreamdeu.sylu.net:8080/smt.php?id=tvbshuanle_twn
+TVBSHD,http://dreamdeu.sylu.net:8080/smt.php?id=tvbs
+中天新闻,http://dreamdeu.sylu.net:8080/smt.php?id=ctinews
+中天娱乐 CTI Entertaiment,http://dreamdeu.sylu.net:8080/smt.php?id=ctient
+中天综合 CTI Metro,http://dreamdeu.sylu.net:8080/smt.php?id=ctizhonghe
+中天亚洲台,http://dreamdeu.sylu.net:8080/smt.php?id=ctiasia_twn
+台视 TTV,http://dreamdeu.sylu.net:8080/smt.php?id=ttv_taiwan
+台视新闻台,http://dreamdeu.sylu.net:8080/smt.php?id=ttvnews_twn
+台视综合台,http://dreamdeu.sylu.net:8080/smt.php?id=ttvzhonghe
+中视,http://dreamdeu.sylu.net:8080/smt.php?id=zhongshihd_twn
+中视新闻台,http://dreamdeu.sylu.net:8080/smt.php?id=zhongshinews_twn
+民视,http://dreamdeu.sylu.net:8080/smt.php?id=ftvhd_taiwan
+民视新闻台 FTV News,http://dreamdeu.sylu.net:8080/smt.php?id=ftvnew_taiwan
+民视台湾台,http://dreamdeu.sylu.net:8080/smt.php?id=ftvtaiwan_twn
+华视 CTS,http://dreamdeu.sylu.net:8080/smt.php?id=ctshd_twn
+公视 CTV,http://dreamdeu.sylu.net:8080/smt.php?id=ctv18_twn
+八大第一 GTV First,http://dreamdeu.sylu.net:8080/smt.php?id=badafirst
+八大综合 GTV Metro,http://dreamdeu.sylu.net:8080/smt.php?id=badazhonghe
+八大戏剧 GTV Drama,http://dreamdeu.sylu.net:8080/smt.php?id=badadrama
+八大娱乐 GTV Entertainment,http://dreamdeu.sylu.net:8080/smt.php?id=badaentertain
+三立台湾 Sanli Taiwan,http://dreamdeu.sylu.net:8080/smt.php?id=sanlitaiwan
+三立戏剧台,http://dreamdeu.sylu.net:8080/smt.php?id=sanlixiju_twn
+三立综合 Sanli Metro,http://dreamdeu.sylu.net:8080/smt.php?id=sanlizhonghe
+三立都会台,http://dreamdeu.sylu.net:8080/smt.php?id=sanlidouhui
+东森新闻 ETTV News,http://dreamdeu.sylu.net:8080/smt.php?id=ettvnews
+CINEMAX,http://dreamdeu.sylu.net:8080/smt.php?id=cinemax_twn
+东森综合 ETTV Metro,http://dreamdeu.sylu.net:8080/smt.php?id=ettvzhonghe
+东森戏剧 ETTV Drama,http://dreamdeu.sylu.net:8080/smt.php?id=ettvdrama
+东森超视,http://dreamdeu.sylu.net:8080/smt.php?id=ettvsuper
+东森财经新闻 ETTV Business,http://dreamdeu.sylu.net:8080/smt.php?id=ettvcaijing_twn
+寰宇财经,http://dreamdeu.sylu.net:8080/smt.php?id=huanyutaiwan_twn
+寰宇新闻台,http://dreamdeu.sylu.net:8080/smt.php?id=huanyuxinwen_twn
+公视2,http://dreamdeu.sylu.net:8080/smt.php?id=ctv2_twn
+大爱1台,http://dreamdeu.sylu.net:8080/smt.php?id=daai_twn
+非凡新闻台,http://dreamdeu.sylu.net:8080/smt.php?id=feifannews_twn
+AXN Taiwan,http://dreamdeu.sylu.net:8080/smt.php?id=axn_twn
+靖天国际台,http://dreamdeu.sylu.net:8080/smt.php?id=jingtianintl_twn
+年代新闻,http://dreamdeu.sylu.net:8080/smt.php?id=niandainews_twn
+纬来日本台,http://dreamdeu.sylu.net:8080/smt.php?id=videolandjapan
+纬来体育台,http://dreamdeu.sylu.net:8080/smt.php?id=videolandsport
+纬来综合台,http://dreamdeu.sylu.net:8080/smt.php?id=videolandzonghe
+纬来育乐,http://dreamdeu.sylu.net:8080/smt.php?id=videolandyule
+纬来精彩,http://dreamdeu.sylu.net:8080/smt.php?id=videolandspecial_twn
+好消息 2,http://dreamdeu.sylu.net:8080/smt.php?id=good2_twn
+大爱2台,http://dreamdeu.sylu.net:8080/smt.php?id=daai2_twn
+亚洲美食,http://dreamdeu.sylu.net:8080/smt.php?id=afc_twn
+美食星球,http://dreamdeu.sylu.net:8080/smt.php?id=foodplanet_twn
+亚洲旅游 TLC Asia,http://dreamdeu.sylu.net:8080/smt.php?id=tlc_twn
+东森电影 ETTV Movie,http://dreamdeu.sylu.net:8080/smt.php?id=ettvmovie
+阿里郎 Arirang,http://dreamdeu.sylu.net:8080/smt.php?id=arirang_twn
+博斯运动 1,http://dreamdeu.sylu.net:8080/smt.php?id=bosisport1_twn
+博斯运动 2,http://dreamdeu.sylu.net:8080/smt.php?id=bosisport2_twn
+博斯高球2,http://dreamdeu.sylu.net:8080/smt.php?id=bosigolf2_twn
+博斯网球,http://dreamdeu.sylu.net:8080/smt.php?id=bositennis_twn
+东森洋片 ETTV Western,http://dreamdeu.sylu.net:8080/smt.php?id=ettvwestern
+龙华洋片 Lunghua Western,http://dreamdeu.sylu.net:8080/smt.php?id=lunghuawestern_twn
+博斯无限,http://dreamdeu.sylu.net:8080/smt.php?id=bosiunlimited_twn
+MTV Live,http://dreamdeu.sylu.net:8080/smt.php?id=mtvhd_twn
+EYETV 旅游,http://dreamdeu.sylu.net:8080/smt.php?id=eyetvtravel_twn
+靖天卡通台,http://dreamdeu.sylu.net:8080/smt.php?id=jingtiancartoon_twn
+EYETV 戏剧,http://dreamdeu.sylu.net:8080/smt.php?id=eyetvxiju_twn
+卫视中文台 Star Movies Chinese,http://dreamdeu.sylu.net:8080/smt.php?id=weishichinese_twn
+东森幼幼 Yoyo TV,http://dreamdeu.sylu.net:8080/smt.php?id=yoyo_twn
+卫视电影台,http://dreamdeu.sylu.net:8080/smt.php?id=weishimovie_twn
+爱尔达影剧台,http://dreamdeu.sylu.net:8080/smt.php?id=eltayingju_twn
+爱尔达综合台,http://dreamdeu.sylu.net:8080/smt.php?id=eltazonghe_twn
+星卫电影,http://dreamdeu.sylu.net:8080/smt.php?id=xingwei_movie
+爱尔达影剧,http://dreamdeu.sylu.net:8080/smt.php?id=eltayingju_twn
+AFC 亚洲旅游台,http://dreamdeu.sylu.net:8080/smt.php?id=asiatravel_twn
+爱尔达体育2台,http://dreamdeu.sylu.net:8080/smt.php?id=eltasport2_twn
+爱尔达体育3台,http://dreamdeu.sylu.net:8080/smt.php?id=eltasport3_twn
+
+🐎SMT电影,#genre#,DE=3#HEADERS={"User-Agent":"ku9qun"}
+HBO_HD,http://dreamdeu.sylu.net:8080/smt.php?id=hbohd_twn
+HBO_HITS,http://dreamdeu.sylu.net:8080/smt.php?id=hbohit_twn
+Hollywood Movies,http://dreamdeu.sylu.net:8080/smt.php?id=hollywoodmovies_twn
+CCTV-6,http://dreamdeu.sylu.net:8080/smt.php?id=cctv6
+CINEMAX,http://dreamdeu.sylu.net:8080/smt.php?id=cinemax_twn
+Cinemax,http://dreamdeu.sylu.net:8080/smt.php?id=Cinemax
+AXN Taiwan,http://dreamdeu.sylu.net:8080/smt.php?id=axn_twn
+大爱2台,http://dreamdeu.sylu.net:8080/smt.php?id=daai2_twn
+东森电影 ETTV Movie,http://dreamdeu.sylu.net:8080/smt.php?id=ettvmovie
+东森洋片 ETTV Western,http://dreamdeu.sylu.net:8080/smt.php?id=ettvwestern
+龙华洋片 Lunghua Western,http://dreamdeu.sylu.net:8080/smt.php?id=lunghuawestern_twn
+Animax,http://dreamdeu.sylu.net:8080/smt.php?id=Animax
+龙详时代,http://dreamdeu.sylu.net:8080/smt.php?id=lungxiangtime_twn
+Movies Now,http://dreamdeu.sylu.net:8080/smt.php?id=moviesnow_raj
+Star Movies,http://dreamdeu.sylu.net:8080/smt.php?id=starmovies_raj
+卫视中文台 Star Movies Chinese,http://dreamdeu.sylu.net:8080/smt.php?id=weishichinese_twn
+HBO Family,http://dreamdeu.sylu.net:8080/smt.php?id=Hbofamily
+Hits,http://dreamdeu.sylu.net:8080/smt.php?id=Hits
+Warner TV,http://dreamdeu.sylu.net:8080/smt.php?id=WarnerTV
+卫视电影台,http://dreamdeu.sylu.net:8080/smt.php?id=weishimovie_twn
+HBO,http://dreamdeu.sylu.net:8080/smt.php?id=Hbo
+美亚电影,http://dreamdeu.sylu.net:8080/smt.php?id=meiyamovie_twn
+HBO Signature,http://dreamdeu.sylu.net:8080/smt.php?id=Hbosignature
+HBO Hits,http://dreamdeu.sylu.net:8080/smt.php?id=Hbohitshd
+星卫电影,http://dreamdeu.sylu.net:8080/smt.php?id=xingwei_movie
+SCM,http://dreamdeu.sylu.net:8080/smt.php?id=Weishimovie
+Dreamworks,http://dreamdeu.sylu.net:8080/smt.php?id=Dreamworks
+Thrill,http://dreamdeu.sylu.net:8080/smt.php?id=Thrill
+Hits Movie,http://dreamdeu.sylu.net:8080/smt.php?id=Hitsmovie
+One,http://dreamdeu.sylu.net:8080/smt.php?id=One
+tvN Movie,http://dreamdeu.sylu.net:8080/smt.php?id=Tvnmovie
+Celestial Classic,http://dreamdeu.sylu.net:8080/smt.php?id=Celestial2
+Celestial Movies,http://dreamdeu.sylu.net:8080/smt.php?id=Celestialindo
+Axn,http://dreamdeu.sylu.net:8080/smt.php?id=Axn
+Paramount Network,http://dreamdeu.sylu.net:8080/smt.php?id=Paramountnetwork
+Astrol Kplus,http://dreamdeu.sylu.net:8080/smt.php?id=Kplus
+Rock Actions,http://dreamdeu.sylu.net:8080/smt.php?id=Rockaction
+Rock Entertainment,http://dreamdeu.sylu.net:8080/smt.php?id=Rockentertain
+
+🐎SMT大陆,#genre#,DE=3#HEADERS={"User-Agent":"ku9qun"}
+CCTV-1 综合,http://dreamdeu.sylu.net:8080/smt.php?id=cctv1
+CCTV-2 财经,http://dreamdeu.sylu.net:8080/smt.php?id=cctv2
+CCTV-3 综艺,http://dreamdeu.sylu.net:8080/smt.php?id=cctv3
+CCTV-4 中文国际,http://dreamdeu.sylu.net:8080/smt.php?id=cctv4
+CCTV4 新闻台,http://dreamdeu.sylu.net:8080/smt.php?id=Cctv4
+CCTV-7 军事农业,http://dreamdeu.sylu.net:8080/smt.php?id=cctv7
+CCTV-8 电视剧,http://dreamdeu.sylu.net:8080/smt.php?id=cctv8hd
+CCTV-9 记录,http://dreamdeu.sylu.net:8080/smt.php?id=cctv9hd
+CCTV-10 科教,http://dreamdeu.sylu.net:8080/smt.php?id=cctv10hd
+CCTV-11 戏曲,http://dreamdeu.sylu.net:8080/smt.php?id=cctv11
+CCTV-12 社会与法,http://dreamdeu.sylu.net:8080/smt.php?id=cctv12
+CCTV-13 新闻频道,http://dreamdeu.sylu.net:8080/smt.php?id=cctv13
+CCTV-14 少儿,http://dreamdeu.sylu.net:8080/smt.php?id=cctv14
+CCTV-6,http://dreamdeu.sylu.net:8080/smt.php?id=cctv6
+CCTV-15 音乐,http://dreamdeu.sylu.net:8080/smt.php?id=cctv15
+湖南卫视,http://dreamdeu.sylu.net:8080/smt.php?id=hunan_twn
+浙江卫视,http://dreamdeu.sylu.net:8080/smt.php?id=zhejiang_twn
+江苏卫视,http://dreamdeu.sylu.net:8080/smt.php?id=jiangsu_twn
+深圳卫视,http://dreamdeu.sylu.net:8080/smt.php?id=shenzhen
+福建东南卫视,http://dreamdeu.sylu.net:8080/smt.php?id=fujian
+广东南方卫视,http://dreamdeu.sylu.net:8080/smt.php?id=nanfang_twn
+广东卫视,http://dreamdeu.sylu.net:8080/smt.php?id=guangdongweishi_twn
+北京卫视,http://dreamdeu.sylu.net:8080/smt.php?id=beijing
+珠江台,http://dreamdeu.sylu.net:8080/smt.php?id=zhujiang
+广西卫视,http://dreamdeu.sylu.net:8080/smt.php?id=guangxi
+湖北卫视,http://dreamdeu.sylu.net:8080/smt.php?id=hubei
+四川卫视,http://dreamdeu.sylu.net:8080/smt.php?id=sichuan_twn
+东方卫视,http://dreamdeu.sylu.net:8080/smt.php?id=dongfangweishi_twn
+CGTN,http://dreamdeu.sylu.net:8080/smt.php?id=CGTN
+凤凰卫视,http://dreamdeu.sylu.net:8080/smt.php?id=phoenixtv_hd
+凤凰资讯,http://dreamdeu.sylu.net:8080/smt.php?id=phoenixinfo_hd
+CCTV-5 体育频道,http://dreamdeu.sylu.net:8080/smt.php?id=cctv5
+CCTV-5+ 体育赛事,http://dreamdeu.sylu.net:8080/smt.php?id=cctv5plus
+
+🐎SMT体育,#genre#,DE=3#HEADERS={"User-Agent":"ku9qun"}
+Astro Premier League 1,http://dreamdeu.sylu.net:8080/smt.php?id=go_assp1
+Astro EPL 1 backup,http://dreamdeu.sylu.net:8080/smt.php?id=go_assp1x
+Astro Premier League 2,http://dreamdeu.sylu.net:8080/smt.php?id=go_assp2
+Astro Grandstand,http://dreamdeu.sylu.net:8080/smt.php?id=go_assp3
+Astro Football,http://dreamdeu.sylu.net:8080/smt.php?id=go_assp4
+Astro Sports Plus,http://dreamdeu.sylu.net:8080/smt.php?id=go_sportsplus
+Astro Badminton 1,http://dreamdeu.sylu.net:8080/smt.php?id=go_badminton1
+Astro Badminton 2,http://dreamdeu.sylu.net:8080/smt.php?id=go_badminton2
+Astro W-Sports,http://dreamdeu.sylu.net:8080/smt.php?id=go_assp5
+Supersports 1,http://dreamdeu.sylu.net:8080/smt.php?id=Assp1
+Supersports 2,http://dreamdeu.sylu.net:8080/smt.php?id=Assp2
+Supersports 3,http://dreamdeu.sylu.net:8080/smt.php?id=Assp3
+Supersports 4,http://dreamdeu.sylu.net:8080/smt.php?id=Assp4
+WWE,http://dreamdeu.sylu.net:8080/smt.php?id=Wwe
+Fight Sports,http://dreamdeu.sylu.net:8080/smt.php?id=Fs
+NBA TV,http://dreamdeu.sylu.net:8080/smt.php?id=Nba
+Astro Cricket,http://dreamdeu.sylu.net:8080/smt.php?id=Acricket
+Astro Golf,http://dreamdeu.sylu.net:8080/smt.php?id=Agolf
+Tnt Sports 1,http://dreamdeu.sylu.net:8080/smt.php?id=6fac0aaead
+TNT Sports 2,http://dreamdeu.sylu.net:8080/smt.php?id=d9a76a79cc
+TNT Sports 3,http://dreamdeu.sylu.net:8080/smt.php?id=5fea4d73db
+TNT Sports 4,http://dreamdeu.sylu.net:8080/smt.php?id=tntsport4
+Sony Ten 1,http://dreamdeu.sylu.net:8080/smt.php?id=ten1_raj
+Sony Ten 2,http://dreamdeu.sylu.net:8080/smt.php?id=ten2_raj
+Sony Ten 3,http://dreamdeu.sylu.net:8080/smt.php?id=ten3_raj
+SPOTV 1,http://dreamdeu.sylu.net:8080/smt.php?id=go_spotv
+SPO TV 2,http://dreamdeu.sylu.net:8080/smt.php?id=go_spotv2
+Skysports F1,http://dreamdeu.sylu.net:8080/smt.php?id=tiankongf1
+Skysports Cricket,http://dreamdeu.sylu.net:8080/smt.php?id=tiankongcricket
+Skysports EPL,http://dreamdeu.sylu.net:8080/smt.php?id=tiankongepl
+Skysports Main Event,http://dreamdeu.sylu.net:8080/smt.php?id=tiankongmain
+Skysports News,http://dreamdeu.sylu.net:8080/smt.php?id=tiankongnews
+Skysports Mix,http://dreamdeu.sylu.net:8080/smt.php?id=tiankongmix
+CCTV-5 体育频道,http://dreamdeu.sylu.net:8080/smt.php?id=cctv5
+CCTV-5+ 体育赛事,http://dreamdeu.sylu.net:8080/smt.php?id=cctv5plus
+爱尔达体育2台,http://dreamdeu.sylu.net:8080/smt.php?id=eltasport2_twn
+爱尔达体育3台,http://dreamdeu.sylu.net:8080/smt.php?id=eltasport3_twn
+Rugby Pass TV,http://dreamdeu.sylu.net:8080/smt.php?id=Rugbypasstv
+RTM Sports,http://dreamdeu.sylu.net:8080/smt.php?id=Rtmsport
+Arena,http://dreamdeu.sylu.net:8080/smt.php?id=Arena
+Arena 2,http://dreamdeu.sylu.net:8080/smt.php?id=Arena2
+BolaArena 1,http://dreamdeu.sylu.net:8080/smt.php?id=Bolaarena1
+BolaArena 2,http://dreamdeu.sylu.net:8080/smt.php?id=Bolaarena2
+Astro Beinsports 1,http://dreamdeu.sylu.net:8080/smt.php?id=Astrobein1
+Astro Beinsports 2,http://dreamdeu.sylu.net:8080/smt.php?id=Astrobein2
+Astro Beinsports 3,http://dreamdeu.sylu.net:8080/smt.php?id=Astrobein3
+
+🐎SMT记录,#genre#,DE=3#HEADERS={"User-Agent":"ku9qun"}
+Natgeo_HD,http://dreamdeu.sylu.net:8080/smt.php?id=natgeohd_twn
+NatGeo_Wild,http://dreamdeu.sylu.net:8080/smt.php?id=natgeowild_twn
+Animal_Planet,http://dreamdeu.sylu.net:8080/smt.php?id=animalplanet_twn
+Discovery Asia,http://dreamdeu.sylu.net:8080/smt.php?id=discoverytwn_twn
+CI,http://dreamdeu.sylu.net:8080/smt.php?id=ci_twn
+Asia Travel,http://dreamdeu.sylu.net:8080/smt.php?id=asiatravel_twn
+Discovery,http://dreamdeu.sylu.net:8080/smt.php?id=discoveryhd_twn
+亚洲美食,http://dreamdeu.sylu.net:8080/smt.php?id=afc_twn
+美食星球,http://dreamdeu.sylu.net:8080/smt.php?id=foodplanet_twn
+亚洲旅游 TLC Asia,http://dreamdeu.sylu.net:8080/smt.php?id=tlc_twn
+NatGeo,http://dreamdeu.sylu.net:8080/smt.php?id=Natgeo
+Fashion TV,http://dreamdeu.sylu.net:8080/smt.php?id=fashiontv_twn
+History,http://dreamdeu.sylu.net:8080/smt.php?id=History
+BBC Earth,http://dreamdeu.sylu.net:8080/smt.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://dreamdeu.sylu.net:8080/smt.php?id=bbclifestyle_twn
+MTV Live,http://dreamdeu.sylu.net:8080/smt.php?id=mtvhd_twn
+NatGeo Wild,http://dreamdeu.sylu.net:8080/smt.php?id=Natgeowild
+Animal Planet (Eng),http://dreamdeu.sylu.net:8080/smt.php?id=AnimalPlanet
+TLC,http://dreamdeu.sylu.net:8080/smt.php?id=Tlc
+Foodnetwork Hd,http://dreamdeu.sylu.net:8080/smt.php?id=Foodnetwork
+HGTV,http://dreamdeu.sylu.net:8080/smt.php?id=HGTV
+AFC 亚洲旅游台,http://dreamdeu.sylu.net:8080/smt.php?id=asiatravel_twn
+
+🐎SMT新闻,#genre#,DE=3#HEADERS={"User-Agent":"ku9qun"}
+Skynews,http://dreamdeu.sylu.net:8080/smt.php?id=skynews_twn
+ABC News,http://dreamdeu.sylu.net:8080/smt.php?id=abcnews_glo
+东森财经新闻 ETTV Business,http://dreamdeu.sylu.net:8080/smt.php?id=ettvcaijing_twn
+CBS,http://dreamdeu.sylu.net:8080/smt.php?id=cbshd_glo
+CBSN,http://dreamdeu.sylu.net:8080/smt.php?id=cbsn_glo
+France 24,http://dreamdeu.sylu.net:8080/smt.php?id=france24_twn
+DW (Deutsch),http://dreamdeu.sylu.net:8080/smt.php?id=dw_twn
+NHK World,http://dreamdeu.sylu.net:8080/smt.php?id=nhkworld_japan
+Fox News,http://dreamdeu.sylu.net:8080/smt.php?id=foxnews_twn
+CGTN,http://dreamdeu.sylu.net:8080/smt.php?id=CGTN
+CNN International,http://dreamdeu.sylu.net:8080/smt.php?id=Cnn
+CNN backup,http://dreamdeu.sylu.net:8080/smt.php?id=cnn_twn
+CNBC,http://dreamdeu.sylu.net:8080/smt.php?id=cnbc_twn
+CNA,http://dreamdeu.sylu.net:8080/smt.php?id=cna
+BBC World News,http://dreamdeu.sylu.net:8080/smt.php?id=bbcnews_twn
+BBC World News,http://dreamdeu.sylu.net:8080/smt.php?id=Bbcnews
+Bloomberg News,http://dreamdeu.sylu.net:8080/smt.php?id=bloomberg_twn
+Al-Jazeera,http://dreamdeu.sylu.net:8080/smt.php?id=aljazeera_twn
+
+🐎SMT儿童,#genre#,DE=3#HEADERS={"User-Agent":"ku9qun"}
+Baby TV Eng,http://dreamdeu.sylu.net:8080/smt.php?id=Babytv
+CBeebies,http://dreamdeu.sylu.net:8080/smt.php?id=Cbeebies
+Kids TV,http://dreamdeu.sylu.net:8080/smt.php?id=KidsTV
+Momo TV,http://dreamdeu.sylu.net:8080/smt.php?id=momo1_twn
+Animax,http://dreamdeu.sylu.net:8080/smt.php?id=Animax
+Baby TV,http://dreamdeu.sylu.net:8080/smt.php?id=babytv_twn
+MiaoMi,http://dreamdeu.sylu.net:8080/smt.php?id=MiaoMi
+靖天卡通台,http://dreamdeu.sylu.net:8080/smt.php?id=jingtiancartoon_twn
+东森幼幼 Yoyo TV,http://dreamdeu.sylu.net:8080/smt.php?id=yoyo_twn
+Cartoon Network,http://dreamdeu.sylu.net:8080/smt.php?id=Cn
+Nickelodeon,http://dreamdeu.sylu.net:8080/smt.php?id=Nickelodeon
+Nick Jr,http://dreamdeu.sylu.net:8080/smt.php?id=Nickjr
+
+🐎SMT新加坡,#genre#,DE=3#HEADERS={"User-Agent":"ku9qun"}
+Channel 5,http://dreamdeu.sylu.net:8080/smt.php?id=Channel5HD
+Channel 8,http://dreamdeu.sylu.net:8080/smt.php?id=Channel8HD
+Suria,http://dreamdeu.sylu.net:8080/smt.php?id=Suria
+Channel U,http://dreamdeu.sylu.net:8080/smt.php?id=ChannelU
+Vasantham,http://dreamdeu.sylu.net:8080/smt.php?id=Vasantham
+CNA,http://dreamdeu.sylu.net:8080/smt.php?id=cna
+CNA backup,http://dreamdeu.sylu.net:8080/smt.php?id=cna_twn
+MeWatch Ch 5,http://dreamdeu.sylu.net:8080/smt.php?id=Mewatch_ch5
+MeWatch Ch 8,http://dreamdeu.sylu.net:8080/smt.php?id=Mewatch_ch8
+MeWatch Ch U,http://dreamdeu.sylu.net:8080/smt.php?id=Mewatch_chU
+MeWatch Suria,http://dreamdeu.sylu.net:8080/smt.php?id=Mewatch_Suria
+MeWatch Vasantham,http://dreamdeu.sylu.net:8080/smt.php?id=Mewatch_Vasantham
+MeWatch CNA,http://dreamdeu.sylu.net:8080/smt.php?id=Mewatch_cna
+
+🐎SMT马来西亚,#genre#,DE=3#HEADERS={"User-Agent":"ku9qun"}
+TV1,http://dreamdeu.sylu.net:8080/smt.php?id=TV1
+TV1 backup,http://dreamdeu.sylu.net:8080/smt.php?id=TV1_backup
+TV2,http://dreamdeu.sylu.net:8080/smt.php?id=TV2
+TV3,http://dreamdeu.sylu.net:8080/smt.php?id=TV3
+TV3 SD,http://dreamdeu.sylu.net:8080/smt.php?id=TV3_mega
+NTV7,http://dreamdeu.sylu.net:8080/smt.php?id=NTV7
+TV8,http://dreamdeu.sylu.net:8080/smt.php?id=TV8
+TV9,http://dreamdeu.sylu.net:8080/smt.php?id=TV9
+Ria,http://dreamdeu.sylu.net:8080/smt.php?id=Ria
+Ria-3,http://dreamdeu.sylu.net:8080/smt.php?id=Ria_backup
+Al-Hijrah,http://dreamdeu.sylu.net:8080/smt.php?id=Alhijrah
+Al-Hijrah backup,http://dreamdeu.sylu.net:8080/smt.php?id=Alhijrah_backup
+Awani,http://dreamdeu.sylu.net:8080/smt.php?id=Awani
+Bernama,http://dreamdeu.sylu.net:8080/smt.php?id=Bernama
+Prima,http://dreamdeu.sylu.net:8080/smt.php?id=Prima
+Prima backup,http://dreamdeu.sylu.net:8080/smt.php?id=AAprima1
+Prima backup 2,http://dreamdeu.sylu.net:8080/smt.php?id=AAprima
+Ceria,http://dreamdeu.sylu.net:8080/smt.php?id=Ceria
+Astro MTV,http://dreamdeu.sylu.net:8080/smt.php?id=AstroMTV
+Mecca Live,http://dreamdeu.sylu.net:8080/smt.php?id=quran_mido
+Madinah,http://dreamdeu.sylu.net:8080/smt.php?id=sunnah_mido
+Oasis,http://dreamdeu.sylu.net:8080/smt.php?id=Oasis
+HBO,http://dreamdeu.sylu.net:8080/smt.php?id=Hbo
+HBO Signature,http://dreamdeu.sylu.net:8080/smt.php?id=Hbosignature
+HBO Hits,http://dreamdeu.sylu.net:8080/smt.php?id=Hbohitshd
+NatGeo Wild,http://dreamdeu.sylu.net:8080/smt.php?id=Natgeowild
+Cartoon Network,http://dreamdeu.sylu.net:8080/smt.php?id=Cn
+Nickelodeon,http://dreamdeu.sylu.net:8080/smt.php?id=Nickelodeon
+Nick Jr,http://dreamdeu.sylu.net:8080/smt.php?id=Nickjr
+Dreamworks,http://dreamdeu.sylu.net:8080/smt.php?id=Dreamworks
+Siar,http://dreamdeu.sylu.net:8080/smt.php?id=Siar
+Citra,http://dreamdeu.sylu.net:8080/smt.php?id=AAcitra
+Citra backup,http://dreamdeu.sylu.net:8080/smt.php?id=AAcitra1
+Sensasi,http://dreamdeu.sylu.net:8080/smt.php?id=Sensasi
+Aura,http://dreamdeu.sylu.net:8080/smt.php?id=Aura
+Rania,http://dreamdeu.sylu.net:8080/smt.php?id=Rania
+KBS World,http://dreamdeu.sylu.net:8080/smt.php?id=KBS
+Boo,http://dreamdeu.sylu.net:8080/smt.php?id=Boo
+Awesome TV,http://dreamdeu.sylu.net:8080/smt.php?id=Dsangat
+Astro Sonypix,http://dreamdeu.sylu.net:8080/smt.php?id=Asonypix
+Sony,http://dreamdeu.sylu.net:8080/smt.php?id=SetOne
+TvN,http://dreamdeu.sylu.net:8080/smt.php?id=TVN
+AEC,http://dreamdeu.sylu.net:8080/smt.php?id=AEC
+华丽台 （Wah Lai Toi）,http://dreamdeu.sylu.net:8080/smt.php?id=Wlt
+欢喜台 （Hua Hee Tai）,http://dreamdeu.sylu.net:8080/smt.php?id=Huahee
+Astro QJ,http://dreamdeu.sylu.net:8080/smt.php?id=Quanjia
+TVB Jade,http://dreamdeu.sylu.net:8080/smt.php?id=Tvbjade
+TVB Asia,http://dreamdeu.sylu.net:8080/smt.php?id=Tvbasia
+TVB Entertainment,http://dreamdeu.sylu.net:8080/smt.php?id=Tvbentertainment
+TVB Classic,http://dreamdeu.sylu.net:8080/smt.php?id=Tvbclassic
+AOD,http://dreamdeu.sylu.net:8080/smt.php?id=Aodhd
+One,http://dreamdeu.sylu.net:8080/smt.php?id=One
+TVB 星河台 Xing He,http://dreamdeu.sylu.net:8080/smt.php?id=Xinhe
+爱奇艺 iQiyi,http://dreamdeu.sylu.net:8080/smt.php?id=Qiyi
+Animal Planet (Eng),http://dreamdeu.sylu.net:8080/smt.php?id=AnimalPlanet
+tvN Movie,http://dreamdeu.sylu.net:8080/smt.php?id=Tvnmovie
+CNN backup,http://dreamdeu.sylu.net:8080/smt.php?id=cnn_twn
+Celestial Classic,http://dreamdeu.sylu.net:8080/smt.php?id=Celestial2
+CNBC,http://dreamdeu.sylu.net:8080/smt.php?id=cnbc_twn
+TLC,http://dreamdeu.sylu.net:8080/smt.php?id=Tlc
+CNA,http://dreamdeu.sylu.net:8080/smt.php?id=cna
+BBC World News,http://dreamdeu.sylu.net:8080/smt.php?id=bbcnews_twn
+Foodnetwork Hd,http://dreamdeu.sylu.net:8080/smt.php?id=Foodnetwork
+HGTV,http://dreamdeu.sylu.net:8080/smt.php?id=HGTV
+Goshop,http://dreamdeu.sylu.net:8080/smt.php?id=Goshop
+Celestial Movies,http://dreamdeu.sylu.net:8080/smt.php?id=Celestial
+Axn,http://dreamdeu.sylu.net:8080/smt.php?id=Axn
+Paramount Network,http://dreamdeu.sylu.net:8080/smt.php?id=Paramountnetwork
+Astrol Kplus,http://dreamdeu.sylu.net:8080/smt.php?id=Kplus
+AFC 亚洲旅游台,http://dreamdeu.sylu.net:8080/smt.php?id=asiatravel_twn
+Rock Actions,http://dreamdeu.sylu.net:8080/smt.php?id=Rockaction
+Bloomberg News,http://dreamdeu.sylu.net:8080/smt.php?id=bloomberg_twn
+Al-Jazeera,http://dreamdeu.sylu.net:8080/smt.php?id=aljazeera_twn
+Rock Entertainment,http://dreamdeu.sylu.net:8080/smt.php?id=Rockentertain
+RTM Sports,http://dreamdeu.sylu.net:8080/smt.php?id=Rtmsport
+Arena,http://dreamdeu.sylu.net:8080/smt.php?id=Arena
+Arena 2,http://dreamdeu.sylu.net:8080/smt.php?id=Arena2
+BolaArena 1,http://dreamdeu.sylu.net:8080/smt.php?id=Bolaarena1
+BolaArena 2,http://dreamdeu.sylu.net:8080/smt.php?id=Bolaarena2
+Astro LOL,http://dreamdeu.sylu.net:8080/smt.php?id=Astro_lol
+Astro Rusi,http://dreamdeu.sylu.net:8080/smt.php?id=Rusi
+WION,http://dreamdeu.sylu.net:8080/smt.php?id=Wion
+RTM Asean,http://dreamdeu.sylu.net:8080/smt.php?id=Rtmasean
+
+💰四季平安,#genre#,DE=3
+中天新闻台,http://213.210.5.152:4171/?id=4gtv-4gtv009&socks5=120.196.69.35:23552
+寰宇新闻台,http://213.210.5.152:4171/?id=litv-longturn14&socks5=120.196.69.35:23552
+寰宇新闻台湾台,http://213.210.5.152:4171/?id=4gtv-4gtv156&socks5=120.196.69.35:23552
+镜电视台新闻台,http://213.210.5.152:4171/?id=4gtv-4gtv075&socks5=120.196.69.35:23552
+东森新闻台,http://213.210.5.152:4171/?id=4gtv-4gtv152&socks5=120.196.69.35:23552
+华视新闻,http://213.210.5.152:4171/?id=4gtv-4gtv052&socks5=120.196.69.35:23552
+民视新闻台,http://213.210.5.152:4171/?id=litv-ftv13&socks5=120.196.69.35:23552
+三立新闻iNEWS,http://213.210.5.152:4171/?id=4gtv-live089&socks5=120.196.69.35:23552
+TVBS新闻,http://213.210.5.152:4171/?id=media-live072&socks5=120.196.69.35:23552
+中视新闻,http://213.210.5.152:4171/?id=4gtv-4gtv074&socks5=120.196.69.35:23552
+ELTV生活英语台,http://213.210.5.152:4171/?id=4gtv-live132&socks5=120.196.69.35:23552
+MOMO亲子台,http://213.210.5.152:4171/?id=4gtv-live107&socks5=120.196.69.35:23552
+猪哥亮歌厅秀,http://213.210.5.152:4171/?id=4gtv-4gtv006&socks5=120.196.69.35:23552
+爱尔达娱乐台,http://213.210.5.152:4171/?id=4gtv-4gtv070&socks5=120.196.69.35:23552
+民视第一台,http://213.210.5.152:4171/?id=4gtv-4gtv003&socks5=120.196.69.35:23552
+民视台湾台,http://213.210.5.152:4171/?id=4gtv-4gtv001&socks5=120.196.69.35:23552
+民视,http://213.210.5.152:4171/?id=4gtv-4gtv002&socks5=120.196.69.35:23552
+大爱电视,http://213.210.5.152:4171/?id=4gtv-live007&socks5=120.196.69.35:23552
+中视,http://213.210.5.152:4171/?id=4gtv-4gtv040&socks5=120.196.69.35:23552
+华视,http://213.210.5.152:4171/?id=4gtv-4gtv041&socks5=120.196.69.35:23552
+三立综合台,http://213.210.5.152:4171/?id=4gtv-live207&socks5=120.196.69.35:23552
+客家电视台,http://213.210.5.152:4171/?id=4gtv-4gtv043&socks5=120.196.69.35:23552
+八大综艺台,http://213.210.5.152:4171/?id=4gtv-4gtv039&socks5=120.196.69.35:23552
+TVBS精彩台,http://213.210.5.152:4171/?id=4gtv-4gtv067&socks5=120.196.69.35:23552
+靖天综合台,http://213.210.5.152:4171/?id=4gtv-4gtv046&socks5=120.196.69.35:23552
+靖天日本台,http://213.210.5.152:4171/?id=4gtv-4gtv047&socks5=120.196.69.35:23552
+ARIRANG阿里郎频道,http://213.210.5.152:4171/?id=4gtv-4gtv079&socks5=120.196.69.35:23552
+Global Trekker,http://213.210.5.152:4171/?id=4gtv-live112&socks5=120.196.69.35:23552
+原住民族电视台,http://213.210.5.152:4171/?id=4gtv-live014&socks5=120.196.69.35:23552
+东森购物四台,http://213.210.5.152:4171/?id=4gtv-live049&socks5=120.196.69.35:23552
+LiveABC互动英语频道,http://213.210.5.152:4171/?id=4gtv-live030&socks5=120.196.69.35:23552
+达文西频道,http://213.210.5.152:4171/?id=4gtv-4gtv018&socks5=120.196.69.35:23552
+Nick Jr. 儿童频道,http://213.210.5.152:4171/?id=4gtv-live032&socks5=120.196.69.35:23552
+尼克儿童频道,http://213.210.5.152:4171/?id=4gtv-live105&socks5=120.196.69.35:23552
+DreamWorks 梦工厂动画,http://213.210.5.152:4171/?id=4gtv-live017&socks5=120.196.69.35:23552
+靖天卡通台,http://213.210.5.152:4171/?id=4gtv-4gtv044&socks5=120.196.69.35:23552
+靖洋卡通Nice Bingo,http://213.210.5.152:4171/?id=4gtv-4gtv057&socks5=120.196.69.35:23552
+东森购物一台,http://213.210.5.152:4171/?id=4gtv-live047&socks5=120.196.69.35:23552
+东森财经新闻台,http://213.210.5.152:4171/?id=4gtv-4gtv153&socks5=120.196.69.35:23552
+Bloomberg TV,http://213.210.5.152:4171/?id=4gtv-live059&socks5=120.196.69.35:23552
+SBN全球财经台,http://213.210.5.152:4171/?id=4gtv-live060&socks5=120.196.69.35:23552
+TVBS,http://213.210.5.152:4171/?id=media-live073&socks5=120.196.69.35:23552
+东森购物二台,http://213.210.5.152:4171/?id=4gtv-live046&socks5=120.196.69.35:23552
+民视综艺台,http://213.210.5.152:4171/?id=4gtv-4gtv004&socks5=120.196.69.35:23552
+靖天育乐台,http://213.210.5.152:4171/?id=4gtv-4gtv062&socks5=120.196.69.35:23552
+KLT-靖天国际台,http://213.210.5.152:4171/?id=4gtv-4gtv063&socks5=120.196.69.35:23552
+Nice TV 靖天欢乐台,http://213.210.5.152:4171/?id=4gtv-4gtv054&socks5=120.196.69.35:23552
+靖天资讯台,http://213.210.5.152:4171/?id=4gtv-4gtv065&socks5=120.196.69.35:23552
+TVBS欢乐台,http://213.210.5.152:4171/?id=4gtv-4gtv068&socks5=120.196.69.35:23552
+韩国娱乐台 KMTV,http://213.210.5.152:4171/?id=4gtv-4gtv016&socks5=120.196.69.35:23552
+ROCK Entertainment,http://213.210.5.152:4171/?id=4gtv-live080&socks5=120.196.69.35:23552
+Lifetime 娱乐频道,http://213.210.5.152:4171/?id=4gtv-live029&socks5=120.196.69.35:23552
+电影原声台CMusic,http://213.210.5.152:4171/?id=4gtv-live031&socks5=120.196.69.35:23552
+TRACE Urban,http://213.210.5.152:4171/?id=4gtv-4gtv082&socks5=120.196.69.35:23552
+Mezzo Live,http://213.210.5.152:4171/?id=4gtv-4gtv083&socks5=120.196.69.35:23552
+CLASSICA 古典乐,http://213.210.5.152:4171/?id=4gtv-4gtv059&socks5=120.196.69.35:23552
+东森购物三台,http://213.210.5.152:4171/?id=4gtv-live048&socks5=120.196.69.35:23552
+INULTRA,http://213.210.5.152:4171/?id=4gtv-live096&socks5=120.196.69.35:23552
+TRACE Sport Stars,http://213.210.5.152:4171/?id=4gtv-4gtv077&socks5=120.196.69.35:23552
+智林体育台,http://213.210.5.152:4171/?id=4gtv-4gtv101&socks5=120.196.69.35:23552
+时尚运动X,http://213.210.5.152:4171/?id=4gtv-4gtv014&socks5=120.196.69.35:23552
+车迷TV,http://213.210.5.152:4171/?id=4gtv-live201&socks5=120.196.69.35:23552
+GINX Esports TV,http://213.210.5.152:4171/?id=4gtv-4gtv053&socks5=120.196.69.35:23552
+Pet Club TV,http://213.210.5.152:4171/?id=4gtv-4gtv110&socks5=120.196.69.35:23552
+民视旅游台,http://213.210.5.152:4171/?id=litv-ftv07&socks5=120.196.69.35:23552
+滚动力rollor,http://213.210.5.152:4171/?id=4gtv-live012&socks5=120.196.69.35:23552
+亚洲旅游台,http://213.210.5.152:4171/?id=4gtv-4gtv076&socks5=120.196.69.35:23552
+fun探索娱乐台,http://213.210.5.152:4171/?id=4gtv-live011&socks5=120.196.69.35:23552
+幸福空间居家台,http://213.210.5.152:4171/?id=4gtv-live206&socks5=120.196.69.35:23552
+Love Nature,http://213.210.5.152:4171/?id=4gtv-live208&socks5=120.196.69.35:23552
+History 历史频道,http://213.210.5.152:4171/?id=4gtv-live026&socks5=120.196.69.35:23552
+爱尔达生活旅游台,http://213.210.5.152:4171/?id=4gtv-live120&socks5=120.196.69.35:23552
+LUXE TV Channel,http://213.210.5.152:4171/?id=4gtv-live121&socks5=120.196.69.35:23552
+TV5MONDE STYLE 生活时尚,http://213.210.5.152:4171/?id=4gtv-live122&socks5=120.196.69.35:23552
+MagellanTV频道 (麦哲伦频道),http://213.210.5.152:4171/?id=4gtv-live123&socks5=120.196.69.35:23552
+公视戏剧,http://213.210.5.152:4171/?id=4gtv-4gtv042&socks5=120.196.69.35:23552
+民视影剧台,http://213.210.5.152:4171/?id=litv-ftv09&socks5=120.196.69.35:23552
+HITS频道,http://213.210.5.152:4171/?id=4gtv-live620&socks5=120.196.69.35:23552
+八大精彩台,http://213.210.5.152:4171/?id=4gtv-4gtv034&socks5=120.196.69.35:23552
+靖天戏剧台,http://213.210.5.152:4171/?id=4gtv-4gtv058&socks5=120.196.69.35:23552
+靖洋戏剧台,http://213.210.5.152:4171/?id=4gtv-4gtv045&socks5=120.196.69.35:23552
+CI 罪案侦查频道,http://213.210.5.152:4171/?id=4gtv-live027&socks5=120.196.69.35:23552
+视纳华仁纪实频道,http://213.210.5.152:4171/?id=4gtv-4gtv013&socks5=120.196.69.35:23552
+影迷数位纪实台,http://213.210.5.152:4171/?id=litv-ftv15&socks5=120.196.69.35:23552
+金光布袋戏,http://213.210.5.152:4171/?id=4gtv-live144&socks5=120.196.69.35:23552
+ROCK Action,http://213.210.5.152:4171/?id=4gtv-live138&socks5=120.196.69.35:23552
+GagaOOLala 精选LGBTQ+好剧,http://213.210.5.152:4171/?id=4gtv-live139&socks5=120.196.69.35:23552
+采昌影剧台,http://213.210.5.152:4171/?id=4gtv-4gtv049&socks5=120.196.69.35:23552
+靖天映画,http://213.210.5.152:4171/?id=4gtv-4gtv055&socks5=120.196.69.35:23552
+靖天电影台,http://213.210.5.152:4171/?id=4gtv-4gtv061&socks5=120.196.69.35:23552
+影迷数位电影台,http://213.210.5.152:4171/?id=4gtv-4gtv011&socks5=120.196.69.35:23552
+amc电影台,http://213.210.5.152:4171/?id=4gtv-4gtv017&socks5=120.196.69.35:23552
+CinemaWorld,http://213.210.5.152:4171/?id=4gtv-live069&socks5=120.196.69.35:23552
+My Cinema Europe我的欧洲电影,http://213.210.5.152:4171/?id=litv-ftv10&socks5=120.196.69.35:23552
+好消息,http://213.210.5.152:4171/?id=litv-ftv16&socks5=120.196.69.35:23552
+好消息2台,http://213.210.5.152:4171/?id=litv-ftv17&socks5=120.196.69.35:23552
+大爱二台,http://213.210.5.152:4171/?id=4gtv-live106&socks5=120.196.69.35:23552
+人间卫视,http://213.210.5.152:4171/?id=4gtv-live008&socks5=120.196.69.35:23552
+NHK WORLD-JAPAN,http://213.210.5.152:4171/?id=4gtv-live168&socks5=120.196.69.35:23552
+FRANCE24 英文台,http://213.210.5.152:4171/?id=4gtv-live146&socks5=120.196.69.35:23552
+半岛国际新闻台,http://213.210.5.152:4171/?id=4gtv-live157&socks5=120.196.69.35:23552
+CNBC Asia 财经台,http://213.210.5.152:4171/?id=4gtv-live130&socks5=120.196.69.35:23552
+DW德国之声,http://213.210.5.152:4171/?id=4gtv-live071&socks5=120.196.69.35:23552
+国会频道1,http://213.210.5.152:4171/?id=4gtv-4gtv084&socks5=120.196.69.35:23552
+国会频道2,http://213.210.5.152:4171/?id=4gtv-4gtv085&socks5=120.196.69.35:23552
+TVBS综艺台,http://213.210.5.152:4171/?id=4gtv-live087&socks5=120.196.69.35:23552
+TVBS台剧台,http://213.210.5.152:4171/?id=4gtv-live088&socks5=120.196.69.35:23552
+经典电影台,http://213.210.5.152:4171/?id=4gtv-live021&socks5=120.196.69.35:23552
+经典卡通台,http://213.210.5.152:4171/?id=4gtv-live022&socks5=120.196.69.35:23552
+精选动漫台,http://213.210.5.152:4171/?id=4gtv-live024&socks5=120.196.69.35:23552
+
+
